@@ -12,5 +12,5 @@ Eu sou o Igor, mas a maioria da pessoas me chamam de Sardinha. Faço parte do ti
 <a href="https://open.spotify.com/user/12184304695?si=1fe639b877564dd5"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
 
-<img align="left" widht="60%" src="https://github-readme-stats.vercel.app/api?username=igorsardinha&show_icons=true"/>
+<img align="left" widht="60%" src="https://github-readme-stats.vercel.app/api?username=igorsardinha&show_icons=true&theme=github_dark"/>
                                                                                                          
