@@ -5,7 +5,7 @@ Eu sou o Igor, mas a maioria da pessoas me chamam de Sardinha. Faço parte do ti
 <br>
 <br>
 
-<a href="https://instagram.com/igor.sardinha">https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white</a>
+<a href="https://instagram.com/igor.sardinha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
 
