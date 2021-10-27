@@ -7,10 +7,12 @@
 <a href="mailto:igor.sardinha@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href="https://open.spotify.com/user/12184304695?si=1fe639b877564dd5"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
-
+<br>
+<br>
+<br>
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorsardinha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="180em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsardinha&layout=compact&langs_count=7&theme=github_dark"/>
+<img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsardinha&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
