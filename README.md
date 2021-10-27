@@ -47,6 +47,8 @@
   &nbsp;
 <img align="center" alt="PS" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
   &nbsp;
+<img align="center" alt="PS" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" />
+  &nbsp;
 </p>
 </div>
 
