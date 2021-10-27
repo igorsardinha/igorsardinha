@@ -43,11 +43,11 @@
   &nbsp;
 <img align="center" alt="MySQL" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   &nbsp;
-<img align="center" alt="PS" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img align="center" alt="Photoshop" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   &nbsp;
-<img align="center" alt="PS" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+<img align="center" alt="Illustrator" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
   &nbsp;
-<img align="center" alt="PS" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" />
+<img align="center" alt="Arduino" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   &nbsp;
 </p>
 </div>
