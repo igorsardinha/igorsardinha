@@ -25,10 +25,6 @@
 &nbsp;&nbsp;
 <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 &nbsp;&nbsp;
-<img align="center" alt="Photoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-&nbsp;&nbsp;
-<img align="center" alt="Illustrator" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-&nbsp;&nbsp;
 <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 &nbsp;&nbsp;
 <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -46,8 +42,6 @@
 <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 &nbsp;&nbsp;
 <img align="center" alt="Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
-&nbsp;&nbsp;
-<img align="center" alt="Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 &nbsp;&nbsp;
 </p>
 </div>
