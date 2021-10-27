@@ -5,12 +5,12 @@ Eu sou o Igor, mas a maioria da pessoas me chamam de Sardinha. Faço parte do ti
 <br>
 <br>
 
- 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=igorsardinha&show_icons=true&theme=github_dark"/>
 </p>
  
- <br>
+<br>
+<br>
  
 <p align="center">
 <a href="https://instagram.com/igor.sardinha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
