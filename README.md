@@ -1,12 +1,8 @@
-#### Olá, bem vindo ao meu perfil! 
-
-Eu sou o Igor, mas a maioria da pessoas me chamam de Sardinha. Faço parte do time de RC da Stone Co, mas nas horas vagas eu brinco de "programar". SQLServer e PostgreSQL estão presentes no meu trabalho como RC, mas gosto muito de front-end. Aqui no perfil tem bastante coisa de Java, pois desenvolvi minhas habilidades de programador me dedicando a um servidor de Minecraft, que no momento está fechado... Mas foi uma expiriência incrível a qual nunca vou esquecer.
+ <h2>Olá, eu sou o Igor...</h2>
+<h5>...mas a maioria da pessoas me chamam de Sardinha. Faço parte do time de RC da Stone Co, mas nas horas vagas eu brinco de "programar". SQLServer e PostgreSQL estão presentes no meu trabalho como RC, mas gosto muito de front-end. Aqui no perfil tem bastante coisa de Java, pois desenvolvi minhas habilidades de programador me dedicando a um servidor de Minecraft, que no momento está fechado... Mas foi uma expiriência incrível a qual nunca vou esquecer. </h5>
 
 <div style="display: inline_block"><br>
-
-
 <p align="center">
- <h2>Me encontre em:</h2>
 <a href="https://instagram.com/igor.sardinha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://linkedin.com/in/igorsardinha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://discordapp.com/users/327552725212725248"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -20,7 +16,6 @@ Eu sou o Igor, mas a maioria da pessoas me chamam de Sardinha. Faço parte do ti
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=igorsardinha&show_icons=true&theme=github_dark"/>
 </p>
- 
 
 <div style="display: inline_block"><br>
 <p align="center">
