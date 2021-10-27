@@ -3,9 +3,10 @@
 Eu sou o Igor, mas a maioria da pessoas me chamam de Sardinha. Faço parte do time de RC da Stone Co, mas nas horas vagas eu brinco de "programar". SQLServer e PostgreSQL estão presentes no meu trabalho como RC, mas gosto muito de front-end. Aqui no perfil tem bastante coisa de Java, pois desenvolvi minhas habilidades de programador me dedicando a um servidor de Minecraft, que no momento está fechado... Mas foi uma expiriência incrível a qual nunca vou esquecer.
 
 <div style="display: inline_block"><br>
-#### Me encontre em:
+
 
 <p align="center">
+ <h2>Me encontre em:</h2>
 <a href="https://instagram.com/igor.sardinha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://linkedin.com/in/igorsardinha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://discordapp.com/users/327552725212725248"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -22,8 +23,6 @@ Eu sou o Igor, mas a maioria da pessoas me chamam de Sardinha. Faço parte do ti
  
 
 <div style="display: inline_block"><br>
- #### Eu conheço sobre:
-
 <p align="center">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
