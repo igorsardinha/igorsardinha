@@ -42,6 +42,8 @@
 &nbsp;&nbsp;
 <img align="center" alt="Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
 &nbsp;&nbsp;
+<img align="center" alt="Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+&nbsp;&nbsp;
 </p>
 </div>
 <br>
