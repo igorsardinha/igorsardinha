@@ -17,9 +17,8 @@
 <br>
 <br>
 <div style="display: inline_block"><br>
-<h3><b>🛠 Ferramentas e Linguagens:<b></h3><br><br>
+<h3><b>🛠 Ferramentas e Linguagens:<b></h3><br>
 <p align="center">
-&nbsp;&nbsp;
 <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 &nbsp;&nbsp;
 <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
