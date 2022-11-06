@@ -10,6 +10,7 @@
 <a href="https://linkedin.com/in/igorsardinha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://discordapp.com/users/327552725212725248" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://open.spotify.com/user/12184304695?si=1fe639b877564dd5" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a href="https://www.credly.com/users/igor.sardinha/badges" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=Credly&logoColor=white"></a>
 </div>
 <br>
 <br>
