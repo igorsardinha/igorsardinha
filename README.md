@@ -1,4 +1,3 @@
-<img align="right" src="https://i.imgur.com/z57RMdA.png" height="350px">
 <h3>Olá, eu sou o Igor Sardinha. Seja bem vindo ao meu perfil!</h3><br>
 <p align="left">
 ➡️ Estou cursando <b>Técnico de Informática</b> no SENAC/SP;<br> 
