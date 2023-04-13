@@ -5,7 +5,7 @@
 ➡️ Sou Analista Pleno de Relacionamento ao Cliente na Linx S/A;<br>
 ➡️ <b>Certificações:</b> Cisco IT Essentials / CertiProf FLGPD;<br><br>
 <h3><b>🔦 Visite minhas redes:<b></h3>
-<div align="center" style="display: flex">
+<div align="left" style="display: flex">
 <a href="https://instagram.com/igor.sardinha" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://linkedin.com/in/igorsardinha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://discordapp.com/users/327552725212725248" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
