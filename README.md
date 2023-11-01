@@ -2,7 +2,7 @@
 <p align="left">
 <h3>Olá, eu sou o Igor Sardinha. Seja bem vindo ao meu perfil!</h3><br>
 ➡️ Estou cursando <b>Técnico de Informática</b> no SENAC/SP;<br> 
-➡️ Sou Analista Pleno de Relacionamento ao Cliente na Linx S/A;<br>
+➡️ Sou Analista Pleno de Relacionamento ao Cliente na Stone Co.;<br>
 ➡️ <b>Certificações:</b> Cisco IT Essentials / CertiProf FLGPD;<br><br>
 <h3><b>🔦 Visite minhas redes:<b></h3>
 <div align="left" style="display: flex">
