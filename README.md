@@ -47,7 +47,7 @@
 &nbsp;&nbsp;
 <img title="NodeJs" align="center" alt="NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
 &nbsp;&nbsp;
-<img title="SQLServer" align="center" alt="SQLServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+<img title="SQLServer" align="center" alt="SQLServer" height="40" width="40" src="https://www.geekandjob.com/uploads/wiki/43b8c92d2a8fcd2a95ae6bf30c18494dae92467a.png">
 &nbsp;&nbsp;
 <img title="PostgreSQL" align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 &nbsp;&nbsp;
