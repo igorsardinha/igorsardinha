@@ -59,6 +59,8 @@
 <p align="left"> 
 <img title="Docker" align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
 &nbsp;&nbsp;
+<img title="SSH" align="center" alt="SSH" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Unofficial_SSH_Logo.svg">
+&nbsp;&nbsp;
 <img title="Git" align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 &nbsp;&nbsp;
 <img title="Jira" align="center" alt="Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
