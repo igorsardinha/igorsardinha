@@ -23,7 +23,7 @@
 </div>
 <br>
 <div style="display: inline_block"><br>
-<h3><b>✨ Langs<b></h3>
+<h3><b>🧮 Langs<b></h3>
 <p align="left">
 <img title="HTML"  align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 &nbsp;&nbsp;
@@ -41,7 +41,7 @@
 &nbsp;&nbsp;
 </p>
 <br>
-<h3><b>✨ Frameworks / Database<b></h3>
+<h3><b>⚙️ Frameworks / Database<b></h3>
 <p align="left">
 <img title="React" align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 &nbsp;&nbsp;
@@ -55,7 +55,7 @@
 &nbsp;&nbsp;
 </p>
 <br>
-<h3><b>✨ Tools<b></h3>
+<h3><b>🛠 Tools<b></h3>
 <p align="left"> 
 <img title="Docker" align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
 &nbsp;&nbsp;
