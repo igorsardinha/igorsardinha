@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left">
 <h3>Olá, eu sou o Igor Sardinha. Seja bem vindo ao meu perfil!</h3><br>
-➡️ Estou cursando <b>Técnico de Informática</b> no SENAC/SP;<br> 
-➡️ Sou Analista Pleno de Relacionamento ao Cliente na Stone Co.;<br>
+➡️ Sou Analista Pleno de Relacionamento ao Cliente na Linx, empresa do do Grupo Stone;<br>
+➡️ Técnico em Informática pelo <b>SENAC/SP</b>b>;<br> 
 ➡️ <b>Certificações:</b> Cisco IT Essentials / CertiProf FLGPD;<br><br>
 <h3><b>🔦 Visite minhas redes:<b></h3>
 <div align="left" style="display: flex">
