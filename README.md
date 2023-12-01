@@ -37,6 +37,8 @@
 &nbsp;&nbsp;
 <img title="Java" align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
 &nbsp;&nbsp;
+<img title="C" align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+&nbsp;&nbsp;
 <img title="C#" align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 &nbsp;&nbsp;
 </p>
@@ -70,6 +72,8 @@
 <img title="Azure" align="center" alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 &nbsp;&nbsp;
 <img title="Salesforce" align="center" alt="Salesforce" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
+&nbsp;&nbsp;
+<img title="Photoshop" align="center" alt="Photoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 &nbsp;&nbsp;
 </p>
 </div>
