@@ -73,7 +73,7 @@
 &nbsp;&nbsp;
 <img title="Salesforce" align="center" alt="Salesforce" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
 &nbsp;&nbsp;
-<img title="Photoshop" align="center" alt="Photoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+<img title="Photoshop" align="center" alt="Photoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
 &nbsp;&nbsp;
 </p>
 </div>
